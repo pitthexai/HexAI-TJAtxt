@@ -11,17 +11,20 @@
 ### Sample images from the categories covered by the MCIndoor20000
 
 
-![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/MCIndoor20000.png  "MCIndoor20000")
+![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/bbb.png  "MCIndoor20000")
 </p>
 
-### Links to the data - Removed on Nov. 9, 2020.
-<p>Per internal security review, these data will no longer be hosted by MCRI.  We apologize for any inconvenience.</p>
+### Links to the data 
+<p>TBD</p>
 
 ### Collaborators:
-+ Fereshteh S. Bashiri
-+ Eric LaRose
-+ Peggy Peissig
-+ Ahmad P. Tafti
++ Soheyla Amirian, PhD
++ Husam Ghazaleh, PhD
++ Matthew Gong, MD
++ Luke Carlson, MS
++ Johannes F. Plate, MD, PhD
++ Ahmad P. Tafti, PhD, FAMIA
+
 
 ### Acknowledgements
 <p align="justify">We wish to thank <strong>Marshfield Clinic</strong> which allowed us to collect the <strong>MCIndoor20000</strong> dataset. Our special thanks goes to Daniel Wall and Anne Nikolai at <strong>Marshfield Clinic Research Institute</strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. Fereshteh S. Bashiri would like to thank the <strong>Summer Research Internship Program (SRIP)</strong> (http://www.marshfieldresearch.org/srip) at <strong>Marshfield Clinic Research Institute (MCRI)</strong> for financial support.</p>
