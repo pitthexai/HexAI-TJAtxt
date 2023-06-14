@@ -1,24 +1,6 @@
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-# NOTICE - Data set no longer available for download
-<p>Due to network security concerns, these images will no longer be hosted by MCRI, and as such will not be available for download. We apologize for any inconvenience.</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-# MCIndoor20000
-## a fully-labeled image dataset to advance indoor objects detection
-<p align="justify">A fully-labeled image dataset provides a unique resource for reproducible research inquiries and data analyses in several computational fields, such as computer vision, machine learning and deep learning machine intelligence. With the present contribution, a large-scale fully-labeled image dataset is provided, and made publicly and freely available to the research community. The current dataset entitled <strong>MCIndoor20000</strong> includes more than 20,000 digital images from three different indoor object categories, including <strong>doors</strong>, <strong>stairs</strong>, and <strong>hospital signs</strong>. To make a comprehensive dataset regarding current challenges exist in indoor objects modeling, we cover a multiple set of variations in images, such as rotation, intra-class variation plus various noise models. The current dataset is freely and publicly available for any academic, educational, and research purposes.</p>
+# HexAI-TJAtxt
+## A Textual Dataset to Advance Open Scientific Research in Total Joint Arthroplasty  
+<p align="justify">Total joint arthroplasty (TJA) is the most common and fastest inpatient surgical procedure in the elderly, nationwide. With the growing number of TJA patients and advances being made in healthcare settings, an increasing number of scientific articles are now published in a daily basis, representing invaluable information in TJA, ranging from TJA diagnosis, prevention, and treatment strategies to genetic variants and epidemiological factors. However, little is done to computationally assemble a large-scale textual dataset from scientific articles, and make it publicly available for open scientific research in TJA. Rapid yet computational text analytics on such a large-scale scientific literature has a great potential to discover novel knowledge in better understanding joint diseases, improving the quality of care and clinical outcomes for TJA. The current dataset entitled HexAI-TJAtxt includes more than 69,000 scientific abstracts collected from PubMed using MeSH (Medical Subject Headings) terms within "MeSH Subheading" and "MeSH Major Topic", and Publication Date from 01/01/2000 to 12/31/2022. The current dataset is freely and publicly available at https://pitthexai.github.io/HexAI-TJAtxt, and it will be updated frequently in bi-monthly manner from new abstracts published at PubMed.  </p>
 
 ### Value of the Data
 + <p align="justify">The <strong>MCIndoor20000</strong> dataset collected in <strong>Marshfield Clinic</strong> (https://www.marshfieldclinic.org/), and it presents various digital images of three guideline indoor objects, including clinic signs, doors and stairs.</p>
