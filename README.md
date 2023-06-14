@@ -8,7 +8,7 @@
 + <p align="justify">To provide a comprehensive image classification repository, the current dataset covers several object model variations involved from the perspectives of computer vision and deep learning strategies. The variations include viewpoint variation, intra-class variation, rotation, noisy conditions (e.g., Gaussian, Poisson), and occlusion. </p>
 + <p align="justify">The <strong>MCIndoor20000</strong> dataset assists reproducible research and allows rapid application development (RAD) and fast prototyping to the deep learning and computer vision community. </p>
 
-### Sample images from the categories covered by the MCIndoor20000
+### Sample images from the categories covered by the HexAI-TJAtxt
 
 
 ![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/bbb.png  "MCIndoor20000")
@@ -27,11 +27,11 @@
 
 
 ### Acknowledgements
-<p align="justify">We wish to thank <strong>Marshfield Clinic</strong> which allowed us to collect the <strong>MCIndoor20000</strong> dataset. Our special thanks goes to Daniel Wall and Anne Nikolai at <strong>Marshfield Clinic Research Institute</strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. Fereshteh S. Bashiri would like to thank the <strong>Summer Research Internship Program (SRIP)</strong> (http://www.marshfieldresearch.org/srip) at <strong>Marshfield Clinic Research Institute (MCRI)</strong> for financial support.</p>
+<p align="justify">We wish to thank <strong>AAA</strong> which allowed us to collect the <strong>HexAI-TJAtxt</strong> dataset. Our special thanks goes to BBB at <strong>AAA</strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. </p>
 
 ### Publications:
 
-<p align="justify">The <strong>MCIndoor20000</strong> dataset is fully explained in the following paper. Any publication using the database would encourage to reference to:
+<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper at Data in Brief journal. Any publication using the database would encourage to reference to:
 <p align="justify">
-<strong>[1]</strong> Bashiri, F.S., LaRose, E., Peissig, P. and Tafti, A.P., 2018. MCIndoor20000: a fully-labeled image dataset to advance indoor objects detection. Data in Brief. <a href="https://www.sciencedirect.com/science/article/pii/S2352340917307424" target="_blank">[<strong>Paper</strong>]</a>
+<strong>[1]</strong> LaRose, E., Peissig, P. and Tafti, A.P., 2018. MCIndoor20000: a fully-labeled image dataset to advance indoor objects detection. Data in Brief. <a href="https://www.sciencedirect.com/science/article/pii/S2352340917307424" target="_blank">[<strong>Paper</strong>]</a>
 </p>
