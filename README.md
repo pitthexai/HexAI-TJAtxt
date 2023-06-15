@@ -37,5 +37,5 @@
 
 <p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper at Data in Brief journal. Any publication using the database would encourage to reference to:
 <p align="justify">
-<strong>[1]</strong> LaRose, E., Peissig, P. and Tafti, A.P., 2018. MCIndoor20000: a fully-labeled image dataset to advance indoor objects detection. Data in Brief. <a href="https://www.sciencedirect.com/science/article/pii/S2352340917307424" target="_blank">[<strong>Paper</strong>]</a>
+<strong>[1]</strong> Amirian S. et al., 2023. A Textual Dataset to Advance Open Scientific Research in Total Joint Arthroplasty. Data in Brief. [Under Review]</a>
 </p>
