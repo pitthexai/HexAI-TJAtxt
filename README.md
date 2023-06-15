@@ -22,12 +22,12 @@
 <p>HexAI-TJAtxt_June2023_JSON.zip [<a href="https://drive.google.com/file/d/18hlQj5PabcLnt2ZcP_VJIZntLy1tSQfC/view?usp=sharing" target="_blank">Download</a>]</p>
 
 ### Collaborators:
-+ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD.
-+ Husam Ghazaleh, PhD
-+ Matthew Gong, MD
-+ Luke Carlson, MS
-+ Johannes F. Plate, MD, PhD
-+ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA.
++ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
++ <a href="https://www.quincy.edu/directory/husam-ghazaleh-m-s/" target="_blank">Husam Ghazaleh</a>, PhD
++ <a href="https://www.orthonet.pitt.edu/people/matthew-gong-md" target="_blank">Matthew Gong</a>, MD
++ <a href="https://pitthexai.github.io/people.html" target="_blank">Luke Carlson</a>, MS
++ <a href="https://www.orthonet.pitt.edu/people/f-johannes-plate-md-phd" target="_blank">Johannes F. Plate</a>, MD, PhD
++ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 
 
 ### Acknowledgements
