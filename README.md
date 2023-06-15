@@ -10,7 +10,7 @@
 + <p align="justify"><strong>Offering Interdisciplinary Research:</strong> The HexAI-TJAtxt dataset encourages collaboration and knowledge exchange between researchers from different disciplines. Orthopedic surgeons, geneticists, epidemiologists, data scientists, AI scientists, and other experts can explore the dataset together, fostering interdisciplinary research and facilitating a holistic understanding of TJA. </p>
 + <p align="justify"><strong>Facilitating Rapid Text Analytics:</strong> The HexAI-TJAtxt dataset offers an opportunity for computational text analytics on a large-scale scientific literature. Researchers can employ natural language processing (NLP) techniques, machine learning algorithms, and other computational tools to extract valuable insights, discover patterns, and identify novel associations within the dataset, in a timely fashion. </p>
 
-### Sample images from the categories covered by the HexAI-TJAtxt
+### The proposed pipeline to build the HexAI-TJAtxt textual dataset
 
 
 ![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/Data/Data_in_Brief_Manuscript_Diagram_New.png  "HexAI-TJAtxt")
