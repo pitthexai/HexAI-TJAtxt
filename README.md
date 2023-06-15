@@ -1,6 +1,6 @@
 # HexAI-TJAtxt
 ## A Textual Dataset to Advance Open Scientific Research in Total Joint Arthroplasty  
-<p align="justify">Total joint arthroplasty (TJA) is the most common and fastest inpatient surgical procedure in the elderly, nationwide. With the growing number of TJA patients and advances being made in healthcare settings, an increasing number of scientific articles are now published in a daily basis, representing invaluable information in TJA, ranging from TJA diagnosis, prevention, and treatment strategies to genetic variants and epidemiological factors. However, little is done to computationally assemble a large-scale textual dataset from scientific articles, and make it publicly available for open scientific research in TJA. Rapid yet computational text analytics on such a large-scale scientific literature has a great potential to discover novel knowledge in better understanding joint diseases, improving the quality of care and clinical outcomes for TJA. The current dataset entitled HexAI-TJAtxt includes more than 69,000 scientific abstracts collected from PubMed using MeSH (Medical Subject Headings) terms within "MeSH Subheading" and "MeSH Major Topic", and Publication Date from 01/01/2000 to 12/31/2022. The current dataset is freely and publicly available at https://github.com/pitthexai/HexAI-TJAtxt, and it will be updated frequently in bi-monthly manner from new abstracts published at PubMed.  </p>
+<p align="justify">Total joint arthroplasty (TJA) is the most common and fastest inpatient surgical procedure in the elderly, nationwide. With the growing number of TJA patients and advances being made in healthcare settings, an increasing number of scientific articles are now published in a daily basis, representing invaluable information in TJA, ranging from TJA diagnosis, prevention, and treatment strategies to genetic variants and epidemiological factors. However, little is done to computationally assemble a large-scale textual dataset from scientific articles, and make it publicly available for open scientific research in TJA. Rapid yet computational text analytics on such a large-scale scientific literature has a great potential to discover novel knowledge in better understanding joint diseases, improving the quality of care and clinical outcomes for TJA. The current dataset entitled HexAI-TJAtxt includes more than 69,000 scientific abstracts collected from PubMed using MeSH (Medical Subject Headings) terms within "MeSH Subheading" and "MeSH Major Topic", and Publication Date from 01/01/2000 to 12/31/2022. The current dataset is freely and publicly available at <a href="https://github.com/pitthexai/HexAI-TJAtxt" target="_blank">here</a>, and it will be updated frequently in a bi-monthly manner from new abstracts published at PubMed.</p>
 
 ### Value of the Data
 + <p align="justify"><strong>Extensive Coverage:</strong> The current textual dataset comprises over 69,000 scientific abstracts from PubMed, providing a comprehensive collection of research on total joint arthroplasty (TJA) from the year 2000 to 2022, with bi-monthly updates from new abstracts that will be published at PubMed.</p>
@@ -22,12 +22,12 @@
 <p>HexAI-TJAtxt_June2023_JSON.zip [<a href="https://drive.google.com/file/d/18hlQj5PabcLnt2ZcP_VJIZntLy1tSQfC/view?usp=sharing" target="_blank">Download</a>]</p>
 
 ### Collaborators:
-+ Soheyla Amirian, PhD
++ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD.
 + Husam Ghazaleh, PhD
 + Matthew Gong, MD
 + Luke Carlson, MS
 + Johannes F. Plate, MD, PhD
-+ Ahmad P. Tafti, PhD, FAMIA
++ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA.
 
 
 ### Acknowledgements
