@@ -17,7 +17,9 @@
 </p>
 
 ### Links to the HexAI-TJAtxt dataset 
-<p>HexAI-TJAtxt_June2023_XLSX.zip[<a href="https://drive.google.com/file/d/1jv-Fg_Eh-gkulrcNoL4i8tuk_eO7xgmi/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_June2023_XLSX.zip [<a href="https://drive.google.com/file/d/1jv-Fg_Eh-gkulrcNoL4i8tuk_eO7xgmi/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_June2023_CSV.zip [<a href="https://drive.google.com/file/d/1M9c9sC6jzEXTZ7GckLHXinZKCS2HaPjP/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_June2023_JSON.zip [<a href="https://drive.google.com/file/d/18hlQj5PabcLnt2ZcP_VJIZntLy1tSQfC/view?usp=sharing" target="_blank">Download</a>]</p>
 
 ### Collaborators:
 + Soheyla Amirian, PhD
