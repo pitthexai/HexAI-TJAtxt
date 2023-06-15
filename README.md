@@ -13,7 +13,7 @@
 ### Sample images from the categories covered by the HexAI-TJAtxt
 
 
-![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/bbb.png  "MCIndoor20000")
+![alt text](https://github.com/pitthexai/HexAi-TJAtxt/Data/Data_in_Brief_Manuscript_Diagram_New.PNG)
 </p>
 
 ### Links to the HexAI-TJAtxt dataset 
