@@ -16,8 +16,8 @@
 ![alt text](https://github.com/bircatmcri/MCIndoor20000/blob/master/bbb.png  "MCIndoor20000")
 </p>
 
-### Links to the data 
-<p>TBD</p>
+### Links to the HexAI-TJAtxt dataset 
+<p>HexAI-TJAtxt_June2023_XLSX</p>[<a href="https://www.sciencedirect.com/science/article/pii/S2352340917307424" target="_blank">Download</a>]
 
 ### Collaborators:
 + Soheyla Amirian, PhD
