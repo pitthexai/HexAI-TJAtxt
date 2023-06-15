@@ -13,7 +13,7 @@
 ### Sample images from the categories covered by the HexAI-TJAtxt
 
 
-![alt text](https://github.com/pitthexai/HexAi-TJAtxt/Data/Data_in_Brief_Manuscript_Diagram_New.PNG)
+![alt text](https://github.com/pitthexai/HexAI-TJAtxt/tree/main/DataData_in_Brief_Manuscript_Diagram_New.png)
 </p>
 
 ### Links to the HexAI-TJAtxt dataset 
