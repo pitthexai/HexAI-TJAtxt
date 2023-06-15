@@ -31,7 +31,7 @@
 
 
 ### Acknowledgements
-<p align="justify">We wish to thank <strong>AAA</strong> which allowed us to collect the <strong>HexAI-TJAtxt</strong> dataset. Our special thanks goes to BBB at <strong>AAA</strong> (https://www.marshfieldresearch.org/). We appreciate their great help and contributions in collecting the dataset and preparing the current paper. </p>
+<p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by <a href="https://www.oracle.com/research" target="_blank">Oracle for Research</a>. </p>
 
 ### Publications:
 
