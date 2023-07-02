@@ -12,7 +12,7 @@
 + <p align="justify"><strong>Rapid Text Analytics:</strong> The HexAI-TJAtxt dataset offers an opportunity for computational text analytics on a large-scale scientific literature. Researchers can employ natural language processing (NLP) techniques, machine learning algorithms, and other computational tools to extract valuable insights, discover patterns, and identify novel associations within the dataset, in a timely fashion. </p>
 + <p align="justify"><strong>Future Dataset Expansion:</strong> The dataset will serve as a foundational data source for future dataset expansions, allowing for the inclusion of additional articles and updates to ensure the dataset remains up-to-date and representative of the research landscape in total joint arthroplasty. </p>
 
-### The proposed pipeline to build the HexAI-TJAtxt textual dataset
+### The proposed pipeline to build the HexAI-TJAtxt textual dataset. Utilizing this proposed pipeline, the HexAI-TJAtxt dataset will be frequently updated in a bi-monthly manner employing new abstracts published at PubMed.
 
 
 ![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/img/Data_in_Brief_Manuscript_Diagram_New.png  "HexAI-TJAtxt")
