@@ -13,7 +13,7 @@
 ### The proposed pipeline to build the HexAI-TJAtxt textual dataset
 
 
-![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/Data/Data_in_Brief_Manuscript_Diagram_New.png  "HexAI-TJAtxt")
+![alt text](https://github.com/pitthexai/HexAI-TJAtxt/blob/main/img/Data_in_Brief_Manuscript_Diagram_New.png  "HexAI-TJAtxt")
 </p>
 
 ### Links to the HexAI-TJAtxt dataset 
