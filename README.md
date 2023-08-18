@@ -19,11 +19,11 @@
 <p>Utilizing this proposed pipeline, the HexAI-TJAtxt dataset will be frequently updated in a bi-monthly manner employing new abstracts published at PubMed.
 </p>
 
-### HexAI-TJAtxt dataset:
+### HexAI-TJAtxt dataset: [Last Update: August 15, 2023]
 <p>Here, you can <strong>download</strong> the HexAI-TJAtxt dataset.</p>
-<p>HexAI-TJAtxt_June2023_XLSX.zip [<a href="https://drive.google.com/file/d/1jv-Fg_Eh-gkulrcNoL4i8tuk_eO7xgmi/view?usp=sharing" target="_blank">Download</a>]</p>
-<p>HexAI-TJAtxt_June2023_CSV.zip [<a href="https://drive.google.com/file/d/1M9c9sC6jzEXTZ7GckLHXinZKCS2HaPjP/view?usp=sharing" target="_blank">Download</a>]</p>
-<p>HexAI-TJAtxt_June2023_JSON.zip [<a href="https://drive.google.com/file/d/18hlQj5PabcLnt2ZcP_VJIZntLy1tSQfC/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_Aug2023_XLSX.zip [<a href="https://drive.google.com/file/d/1mnlAugYMLO3cV5HDzQmzMV1RBVpnIV_Q/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_Auge2023_CSV.zip [<a href="https://drive.google.com/file/d/1R5xpO6Oeye8R9T4gv_KfwpO74xWVvNNh/view?usp=sharing" target="_blank">Download</a>]</p>
+<p>HexAI-TJAtxt_Aug2023_JSON.zip [<a href="https://drive.google.com/file/d/1zWSSjOUkLGXfsS8pffjTStFixysibO95/view?usp=sharing" target="_blank">Download</a>]</p>
 
 ### Collaborators:
 + <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
