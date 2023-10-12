@@ -4,7 +4,7 @@
 
 ### Value of the Data:
 + <p align="justify"><strong>Research Advancement:</strong> The HexAI-TJAtxt dataset provides a comprehensive collection of scientific abstracts related to total joint arthroplasty, assisting researchers, clinicians, health informaticians, and physicians to explore the upmost body of knowledge in the field and identify research gaps and areas.</p>
-+ <p align="justify"><strong>Extensive Coverage:</strong> The current textual dataset comprises over 69,000 scientific abstracts from PubMed, providing a comprehensive collection of research on total joint arthroplasty (TJA) from the year 2000 to 2022, with bi-monthly updates from new abstracts that will be published at PubMed.</p>
++ <p align="justify"><strong>Extensive Coverage:</strong> The current textual dataset comprises over 61,936 scientific abstracts from PubMed, providing a comprehensive collection of research on total joint arthroplasty (TJA) from the year 2000 to 2022, with bi-monthly updates from new abstracts that will be published at PubMed.</p>
 + <p align="justify"><strong>Invaluable Information:</strong> Individual scientists from different disciplines will delve into this dataset, gaining new insights and enhance their understanding of joint diseases, ultimately contributing to improved patient care and clinical outcomes in TJA. </p>
 + <p align="justify"><strong>Open Access for Scientific Research:</strong> Making this dataset publicly and freely available will foster open scientific research in the field of TJA.</p>
 + <p align="justify"><strong>Evidence-Based Medicine</strong> The HexAI-TJAtxt empowers researchers and clinicians to make evidence-based decisions, facilitating literature reviews, meta-analyses, and systematic reviews related to TJA. </p>
