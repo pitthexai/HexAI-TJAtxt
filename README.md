@@ -40,7 +40,6 @@
 
 ### Publications:
 
-<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper published [under review now] at the Data in Brief journal. Any publication using the database would encourage to reference to:
+<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper published at the **Data in Brief** journal. Any publication using the dataset would encourage to cite the following work:
 <p align="justify">
-<strong>[1]</strong> Amirian S. et al., 2023. HexAI-TJAtxt: A Textual Dataset to Advance Open Scientific Research in Total Joint Arthroplasty. Data in Brief. [Under Review]</a>
-</p>
+<strong>[1]</strong> Amirian S, Ghazaleh H, Carlson LA, Gong M, Finger L, Plate JF, Tafti AP. HexAI-TJAtxt: A textual dataset to advance open scientific research in total joint arthroplasty. Data in Brief. 2023 Oct 31:109738.</p>
